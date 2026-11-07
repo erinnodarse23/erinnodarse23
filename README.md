@@ -2,7 +2,7 @@
 
 ### Ingeniero de Software | Backend Java · Spring Boot · PostgreSQL
 
-Construyo APIs REST con arquitectura en capas, seguridad enterprise y modelos de datos normalizados. Desde Cuba, buscando oportunidades remotas.
+Construyo APIs REST con arquitectura en capas, seguridad enterprise y modelos de datos normalizados. Desde Cuba, buscando oportunidades de trabajo de forma remotas.
 
 ---
 
