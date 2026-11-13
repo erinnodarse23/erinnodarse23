@@ -43,19 +43,4 @@ Backend para gestión bibliotecaria reestructurado con stack actualizado a las �
 
 ---
 
-## 📊 Mis estadísticas en GitHub
-
-![Estadísticas de Erin](https://github-readme-stats.vercel.app/api?username=erinnodarse23&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=erinnodarse23&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-⭐️ Si te interesa mi trabajo, contáctame por [email](mailto:nodarseerin1@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/erin-nodarse-gonzález-1266913ba).
-### [API REST Biblioteca Santa Lucía](https://github.com/erinnodarse23/biblioteca-santa-lucia)
-Backend para gestión de biblioteca con reglas de negocio complejas. Arquitectura en capas, normalización hasta FNBC, Spring Data JPA y Swagger UI.
-**Stack:** Java · Spring Boot · Spring Data JPA · PostgreSQL · Swagger
-
----
-
 ⭐️ Si te interesa mi trabajo, contáctame por [email](mailto:nodarseerin1@gmail.com) o por [LinkedIn](https://www.linkedin.com/in/erin-nodarse-gonzález-1266913ba).
